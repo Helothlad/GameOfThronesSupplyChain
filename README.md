@@ -1,4 +1,4 @@
-"# GameOfThronesSupplyChain" 
+# GameOfThronesSupplyChain
 This project is a simulation of resource management in the world of "Game of Thrones". It involves managing a royal warehouse of resources and distributing these resources to the great houses of Westeros based on their preferences and needs.
 
 ## Features
