@@ -1,0 +1,14 @@
+C:\Users\peper\OneDrive\Desktop\Szoftver2hazik\GOT\GOT\obj\Debug\net7.0\GOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peper\OneDrive\Desktop\Szoftver2hazik\GOT\GOT\obj\Debug\net7.0\GOT.AssemblyInfoInputs.cache
+C:\Users\peper\OneDrive\Desktop\Szoftver2hazik\GOT\GOT\obj\Debug\net7.0\GOT.AssemblyInfo.cs
+C:\Users\peper\OneDrive\Desktop\Szoftver2hazik\GOT\GOT\obj\Debug\net7.0\GOT.csproj.CoreCompileInputs.cache
+C:\Users\peper\OneDrive\Desktop\Szoftver2hazik\GOT\GOT\bin\Debug\net7.0\GOT.exe
+C:\Users\peper\OneDrive\Desktop\Szoftver2hazik\GOT\GOT\bin\Debug\net7.0\GOT.deps.json
+C:\Users\peper\OneDrive\Desktop\Szoftver2hazik\GOT\GOT\bin\Debug\net7.0\GOT.runtimeconfig.json
+C:\Users\peper\OneDrive\Desktop\Szoftver2hazik\GOT\GOT\bin\Debug\net7.0\GOT.dll
+C:\Users\peper\OneDrive\Desktop\Szoftver2hazik\GOT\GOT\bin\Debug\net7.0\GOT.pdb
+C:\Users\peper\OneDrive\Desktop\Szoftver2hazik\GOT\GOT\obj\Debug\net7.0\GOT.dll
+C:\Users\peper\OneDrive\Desktop\Szoftver2hazik\GOT\GOT\obj\Debug\net7.0\refint\GOT.dll
+C:\Users\peper\OneDrive\Desktop\Szoftver2hazik\GOT\GOT\obj\Debug\net7.0\GOT.pdb
+C:\Users\peper\OneDrive\Desktop\Szoftver2hazik\GOT\GOT\obj\Debug\net7.0\GOT.genruntimeconfig.cache
+C:\Users\peper\OneDrive\Desktop\Szoftver2hazik\GOT\GOT\obj\Debug\net7.0\ref\GOT.dll
